@@ -1,1 +1,1 @@
-It contains certain pieces of information that will be very useful to understand, humans.
+These files work together to create a simple way to track people going on holiday to different places.
